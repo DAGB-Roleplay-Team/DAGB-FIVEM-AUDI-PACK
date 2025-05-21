@@ -1,4 +1,7 @@
-<h1 align="center">🚗FiveM Car Pack Audi ( 16 cars)</h1>
+<h1 align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Audi_logo_2023.svg/1200px-Audi_logo_2023.svg.png" width="50" align="left" />
+    🚗 FiveM Car Pack Audi (16 cars)
+</h1>
 <p align="center">
     <img alt="" src="https://madewithlove.now.sh/fr?heart=true&colorB=%2300008B&template=for-the-badge">
 </p>
@@ -10,5 +13,5 @@ This repository contains an Audi car pack for FiveM servers. It includes several
 ## Installation
 
 1. Download the repository.
-2. Add the files from the pack to the `resources` folder of your FiveM server
-3. Modify your `server.cfg` file to include the car pack
+2. Add the files from the pack to the `resources` folder of your FiveM server.
+3. Modify your `server.cfg` file to include the car pack.
