@@ -5,7 +5,7 @@ game 'gta5'
 version '1.0.2'
 author 'yusu_sauvage'
 description 'Pack de ressource véhicule HD'
-repository 'https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack'
+repository 'https://github.com/DAGB-Roleplay-Team/FiveM-Car-Audi-V1'
 
 files {
     'data/**/*.meta',
